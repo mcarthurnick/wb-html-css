@@ -1,15 +1,24 @@
 /* Step-3 You can assign padding to all sides of a container by using the padding shorthand property. */
 
 .content-mid {
+  padding: 80px;
 }
 
 .content-mid-header {
   background: #444;
+  height: 80px;
+  width: auto;
 }
 
 .content-container {
+  height: 400px;
+  width: auto;
 }
 
 .content {
   background: #d8d8d8;
+  padding: 20px;
+  width:auto;
+  height: 90%;
+  text-align: center;
 }
